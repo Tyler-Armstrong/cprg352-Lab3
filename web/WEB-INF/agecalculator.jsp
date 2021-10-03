@@ -19,6 +19,6 @@
             <p>${message}</p>
             <input type="submit" value=" Age Next Birthday ">
         </form>
-        <a href="/WEB-INF/arithmeticcalculator.jsp">Arithmetic Calculator</a>
+        <a href="http://localhost:8084/Lab03/arithmetic">Arithmetic Calculator</a>
     </body>
 </html>
